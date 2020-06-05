@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/client-combined-3.141.59-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.10-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/java-client-7.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.10-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/okio-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/commons-lang3-3.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libs/okhttp-3.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
